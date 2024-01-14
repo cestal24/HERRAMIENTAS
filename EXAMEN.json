@@ -1,8 +1,8 @@
 ﻿[
     {
         "Alumno": "Cesar Morquecho",
-        "Nota": "10",
-        "Ranking": "10"
+        "Nota": 10,
+        "Ranking": 10
     },
     {
         "Alumno": "VIVIANA",
