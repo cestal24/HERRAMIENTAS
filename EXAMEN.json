@@ -2,51 +2,51 @@
     {
         "Alumno": "Cesar Morquecho",
         "Nota": 10,
-        "Ranking": 10
+        "Ranking": 5
     },
     {
         "Alumno": "VIVIANA",
         "Nota": 9.4,
-        "Ranking": 9
+        "Ranking": 4.5
     },
     {
         "Alumno": "MARIA",
         "Nota": 9,
-        "Ranking": 8
+        "Ranking": 4
     },
     {
         "Alumno": "LUCAS",
         "Nota": 8.9,
-        "Ranking": 7
+        "Ranking": 3.5
     },
     {
         "Alumno": "LUCIANO",
         "Nota": 8.5,
-        "Ranking": 6
+        "Ranking": 3
     },
     {
         "Alumno": "JOAQUIN",
         "Nota": 7.8,
-        "Ranking": 5
+        "Ranking": 2.5
     },
     {
         "Alumno": "pedro",
         "Nota": 6.2,
-        "Ranking": 4
+        "Ranking": 2
     },
     {
         "Alumno": "juan",
         "Nota": 5.5,
-        "Ranking": 3
+        "Ranking": 1.5
     },
     {
         "Alumno": "LUCIA",
         "Nota": 4.9,
-        "Ranking": 2
+        "Ranking": 1
     },
     {
         "Alumno": "MARTHA",
         "Nota": 2,
-        "Ranking": 1
+        "Ranking": 0.5
     }
 ]
