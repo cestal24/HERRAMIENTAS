@@ -1,35 +1,52 @@
 ﻿[
     {
-        "Alumno": "Cesar"
-        
+        "Alumno": "Cesar",
+        "Valor": 10,
+        "Ranking": 100
     },
     {
-        "Alumno": "VIVIANA"
-        
+        "Alumno": "VIVIANA",
+        "Valor": 9.4,
+        "Ranking": 70
     },
     {
-        "Alumno": "MARIA"
-        
+        "Alumno": "MARIA",
+        "Valor": 9,
+        "Ranking": 60
     },
     {
-        "Alumno": "LUCAS"
+        "Alumno": "LUCAS",
+        "Valor": 8.9,
+        "Ranking": 50
     },
     {
-        "Alumno": "LUCIANO"
+        "Alumno": "LUCIANO",
+        "Valor": 8.5,
+        "Ranking": 45
     },
     {
-        "Alumno": "JOAQUIN"
+        "Alumno": "JOAQUIN",
+        "Valor": 7.8,
+        "Ranking": 35
     },
     {
-        "Alumno": "pedro"
+        "Alumno": "pedro",
+        "Valor": 6.2,
+        "Ranking": 25
     },
     {
-        "Alumno": "juan"
+        "Alumno": "juan",
+        "Valor": 5.5,
+        "Ranking": 20
     },
     {
-        "Alumno": "LUCIA"
+        "Alumno": "LUCIA",
+        "Valor": 4.9,
+        "Ranking": 10
     },
     {
-        "Alumno": "MORQUECHO"
+        "Alumno": "MORQUECHO",
+        "Valor": 2,
+        "Ranking": 5
     }
 ]
