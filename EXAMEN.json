@@ -1,52 +1,35 @@
 ﻿[
     {
-        "Alumno": "Cesar Morquecho",
-        "Nota": 10,
-        "Ranking": 100
+        "Alumno": "Cesar"
+        
     },
     {
-        "Alumno": "VIVIANA",
-        "Nota": 9.4,
-        "Ranking": 70
+        "Alumno": "VIVIANA"
+        
     },
     {
-        "Alumno": "MARIA",
-        "Nota": 9,
-        "Ranking": 60
+        "Alumno": "MARIA"
+        
     },
     {
-        "Alumno": "LUCAS",
-        "Nota": 8.9,
-        "Ranking": 50
+        "Alumno": "LUCAS"
     },
     {
-        "Alumno": "LUCIANO",
-        "Nota": 8.5,
-        "Ranking": 45
+        "Alumno": "LUCIANO"
     },
     {
-        "Alumno": "JOAQUIN",
-        "Nota": 7.8,
-        "Ranking": 35
+        "Alumno": "JOAQUIN"
     },
     {
-        "Alumno": "pedro",
-        "Nota": 6.2,
-        "Ranking": 25
+        "Alumno": "pedro"
     },
     {
-        "Alumno": "juan",
-        "Nota": 5.5,
-        "Ranking": 20
+        "Alumno": "juan"
     },
     {
-        "Alumno": "LUCIA",
-        "Nota": 4.9,
-        "Ranking": 10
+        "Alumno": "LUCIA"
     },
     {
-        "Alumno": "MARTHA",
-        "Nota": 2,
-        "Ranking": 5
+        "Alumno": "MORQUECHO"
     }
 ]
